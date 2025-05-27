@@ -17,3 +17,10 @@ Apasionado por la calidad del software y en constante formación como **QA Engin
 - **Testing móvil** y análisis con **DevTools**
 
 🚀 Busco oportunidades donde pueda seguir creciendo y contribuir a equipos enfocados en la calidad del software.
+
+📫 ¿Quieres contactar conmigo? 
+
+- 📧 [Correo: luisangelsantos29@gmail.com](mailto:luisangelsantos29@gmail.com)
+- 📱 Teléfono: 8115788152
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luisangelsantos)
+- 💻 [GitHub](https://github.com/KabyStrato66)
