@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner de Luis Angel Santos">
+</p>
+
 Hola Soy Luis
 
 Apasionado por la calidad del software y en constante formación como **QA Engineer** 🔍.  
