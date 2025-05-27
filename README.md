@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner de Luis Angel Santos">
+</p>
 
 Hola Soy Luis
 
